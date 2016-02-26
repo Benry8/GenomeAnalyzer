@@ -1,9 +1,9 @@
 #GenomeAnalyzer - a SAM file elaboration tool written in c++.
 
-* [Introduction](README.md/#Introduction);
-* [Tool Features](README.md/#Features);
-* [License](README.md/#License);
-* [Conclusions](README.md/#Conclusions).
+* [Introduction](README.md#Introduction);
+* [Tool Features](README.md#Features);
+* [License](README.md#License);
+* [Conclusions](README.md#Conclusions).
 
 ###Introduction
 
