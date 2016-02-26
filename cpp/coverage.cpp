@@ -7,8 +7,6 @@
 #include <cstdlib>
 using namespace std;
 
-// the following methods allow to calculate physical and sequence coverage
-
 int get_length(string line){
 	istringstream iss(line, istringstream::in);
 	string word = "";
