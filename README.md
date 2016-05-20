@@ -10,7 +10,7 @@
 GenomeAnalyzer is a c++ program that provides some options to make several elaborations on a SAM file.
 This tool generates useful information like **sequence coverage** and **physical coverage**, giving a .sam file as input.
 The tool was built considering the 18-nov-2015 version of the [SAM specification](https://samtools.github.io/hts-specs/SAMv1.pdf) (see the SAM specification for more information about the format).
-Please, consider reading the paper ([BioinformaticsProject.pdf](https://github.com/Benry8/GenomeAnalyzer/blob/master/BioinformaticsProject.pdf)) to get an accurate view of the tool and how it should be used. It contains information on how to create an executable of the tool (on linux) in the case that the given one is not working.
+Please, consider reading the document ([BioinformaticsProject.pdf](https://github.com/Benry8/GenomeAnalyzer/blob/master/BioinformaticsProject.pdf)) to get an accurate view of the tool and how it should be used. It contains information on how to create an executable of the tool (on linux) in the case that the given one is not working.
 
 ###Features
 
